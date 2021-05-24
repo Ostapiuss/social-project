@@ -1,6 +1,5 @@
 import React from 'react';
 import './Header.scss'
-// import { Link } from 'react-router-dom';
 import { Navigation } from '../Navigation'
 
 export function Header() {

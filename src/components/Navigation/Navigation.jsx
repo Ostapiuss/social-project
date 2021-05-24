@@ -7,9 +7,9 @@ import './Navigation.scss';
 export function Navigation() {
   return (
     <nav className="header__navbar nav">
+      <NavigationPanel />
       <Featured />
       <AllOther />
-      <NavigationPanel />
     </nav>
   );
 }
