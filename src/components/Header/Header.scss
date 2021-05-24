@@ -1,0 +1,18 @@
+$section-color: #1b93e1;
+$link-color: #2881B9;
+$header-width: 300px;
+
+.header {
+  background-color: #0000;
+  max-width: $header-width;
+
+  &__logo-menu {
+    height: 8vh;
+    background-color: $section-color;
+    padding: 25px;
+    text-align: center;
+    color: #eaff00;
+
+    font-size: 30px;
+  }
+}

@@ -1,11 +1,10 @@
 import React from 'react';
+import { Header } from '../Header'
+import './HomePage.scss';
+import './navigation.scss';
 
 export function HomePage() {
   return (
-    <header className="haeder">
-      <div className="header__burger-menu">
-        x
-      </div>
-    </header>
+    <Header />
   );
 }
