@@ -1,10 +1,9 @@
-$section-color: #1b93e1;
-$link-color: #2881B9;
-$header-width: 300px;
+@import '../../veriables.scss';
 
 .header {
   background-color: #0000;
   max-width: $header-width;
+  width: 400px;
 
   &__logo-menu {
     height: 8vh;

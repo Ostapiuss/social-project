@@ -1,1 +1,1 @@
-export * from './AllOther';
+export * from './AllOther'

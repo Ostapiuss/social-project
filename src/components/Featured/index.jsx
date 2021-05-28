@@ -1,1 +1,1 @@
-export * from './Featured';
+export * from './Featured'

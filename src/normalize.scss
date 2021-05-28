@@ -340,6 +340,10 @@ template {
   display: none;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 /**
  * Add the correct display in IE 10.
  */
